@@ -38,5 +38,6 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    api project(path: ':jackpermissions')
+//    api project(path: ':jackpermissions')
+    implementation 'com.github.ewgcat:JackPermissions:1.0.0'
 }
